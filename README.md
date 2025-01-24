@@ -1,7 +1,7 @@
 # Batch-download-from-Copernicus 
 # Batch download of data from the Copernicus Data Center using OData (Sentinel 2, Sentinel 3, etc.)
 # 哥白尼数据中心数据批量下载（如哨兵二号、三号等）
-You need to change the first 7 lines of code according to your needs你需要根据自己的需求更改前8行代码
+You need to change the first 8 lines of code according to your needs你需要根据自己的需求更改前8行代码
 
 You can read it in English or Chinese, the content is the same 中英文含义一样，择一阅读。
 
